@@ -2,7 +2,7 @@
 
 ## Pokročilý
 ### Lekce:
-*1 - OOP první část:
-    *Opakování základů OOp
-    *Scope
-    *Dekorátory
+1 - OOP první část:
+ *Opakování základů OOp
+ *Scope
+ *Dekorátory
