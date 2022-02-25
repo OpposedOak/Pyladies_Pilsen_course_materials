@@ -1,4 +1,4 @@
-# Pyladies_Pislen_course_materials
+# Pyladies_Pilsen_course_materials
 
 ## Pokročilý
 ### Lekce:
