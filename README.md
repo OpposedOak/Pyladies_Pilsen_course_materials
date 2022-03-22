@@ -11,8 +11,8 @@
 2 - OOP Druhá část:
 - Static method
 - Class method
-
-
+<br>
+<br>
 3 - Lambda funkce:
 - Představení lambda kalkulu
 - Použití lambda funkcí
