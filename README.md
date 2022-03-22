@@ -6,8 +6,8 @@
 - Opakování základů OOP
 - Scope
 - Dekorátory
-- 
-1 - OOP Druhá část:
+
+2 - OOP Druhá část:
 - Static method
 - Class method
 
