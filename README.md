@@ -7,9 +7,11 @@
 - Scope
 - Dekorátory
 
+
 2 - OOP Druhá část:
 - Static method
 - Class method
+
 
 3 - Lambda funkce:
 - Představení lambda kalkulu
